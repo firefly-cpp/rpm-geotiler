@@ -17,7 +17,7 @@ Summary:        GeoTiler is a library to create map using tiles from a map provi
 License:        GPLv3+
 URL:            https://github.com/wrobell/%{pypi_name}
 Source0:        %{pypi_source}
-Patch0:         0001-Remove-one-dependency.patch
+Patch0:         0001-Change-dependencies.patch
 
 # Upstream for modestmaps-py was asked to clarify the exact BSD license
 # text via https://github.com/stamen/modestmaps-py/issues/19 and by direct
